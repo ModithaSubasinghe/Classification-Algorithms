@@ -1,0 +1,11 @@
+,Model,Random State,Best Parameters,f1_Score,Execution Time
+0,LogisticRegression(),1.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.35599470138549805
+1,LogisticRegression(),2.0,"{'C': 100, 'penalty': 'l2', 'solver': 'liblinear'}",0.96,0.4373941421508789
+2,LogisticRegression(),3.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.38065624237060547
+3,LogisticRegression(),4.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.5363607406616211
+4,LogisticRegression(),5.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.8626964092254639
+5,LogisticRegression(),6.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.5380508899688721
+6,LogisticRegression(),7.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.43739771842956543
+7,LogisticRegression(),8.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.5390353202819824
+8,LogisticRegression(),9.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.49988245964050293
+9,LogisticRegression(),10.0,"{'C': 100, 'penalty': 'l2', 'solver': 'newton-cg'}",0.9799979997999799,0.5779874324798584

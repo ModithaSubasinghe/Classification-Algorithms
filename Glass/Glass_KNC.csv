@@ -1,0 +1,11 @@
+,Model,Random State,Best Parameters,f1_Score,Execution Time
+0,KNeighborsClassifier(),1.0,"{'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}",1.0,0.7755849361419678
+1,KNeighborsClassifier(),2.0,"{'metric': 'manhattan', 'n_neighbors': 5, 'weights': 'distance'}",1.0,0.8390383720397949
+2,KNeighborsClassifier(),3.0,"{'metric': 'manhattan', 'n_neighbors': 12, 'weights': 'distance'}",1.0,0.7452840805053711
+3,KNeighborsClassifier(),4.0,"{'metric': 'manhattan', 'n_neighbors': 1, 'weights': 'uniform'}",1.0,0.8378922939300537
+4,KNeighborsClassifier(),5.0,"{'metric': 'manhattan', 'n_neighbors': 7, 'weights': 'distance'}",1.0,0.7330892086029053
+5,KNeighborsClassifier(),6.0,"{'metric': 'manhattan', 'n_neighbors': 4, 'weights': 'distance'}",1.0,0.8069710731506348
+6,KNeighborsClassifier(),7.0,"{'metric': 'manhattan', 'n_neighbors': 13, 'weights': 'distance'}",1.0,0.7498245239257812
+7,KNeighborsClassifier(),8.0,"{'metric': 'manhattan', 'n_neighbors': 8, 'weights': 'distance'}",1.0,0.7392516136169434
+8,KNeighborsClassifier(),9.0,"{'metric': 'manhattan', 'n_neighbors': 12, 'weights': 'distance'}",1.0,0.7305700778961182
+9,KNeighborsClassifier(),10.0,"{'metric': 'manhattan', 'n_neighbors': 3, 'weights': 'distance'}",1.0,0.7689659595489502
